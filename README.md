@@ -1,4 +1,4 @@
-# spatial-audio-lab
+# spatial_audio_lab
 A laboratory for experimenting with spatial audio and immersive sound generation using Python.
 
 ---
