@@ -42,7 +42,7 @@ This project explores the fundamentals of:
 - [ ] 距離減衰（distance attenuation）  
 - [ ] 部屋の簡易反射 / リバーブのシミュレーション  
 - [ ] GUI を使ったインタラクティブ再生  
-- [ ] 小さなミニアプリ（例：音を探す“Sound Finder”）
+- [ ] 小さなミニアプリ（例：音を探す“Sound Finder”）????
 
 ---
 
