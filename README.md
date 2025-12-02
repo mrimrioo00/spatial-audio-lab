@@ -48,10 +48,10 @@ This project explores the fundamentals of:
 
 ## 🧪 How to Run
 ```
-pip install -r requirements.txt
-python src/main.py
-※音声ファイルは後で追加予定。  
-※実験的なコードが多く、書き換えが頻繁に発生します。
+pip install -r requirements.txt  
+python src/main.py  
+※音声ファイルは後で追加予定。    
+※実験的なコードが多く、書き換えが頻繁に発生します。  
 ```
 
 ---
