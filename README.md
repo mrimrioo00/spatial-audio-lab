@@ -72,3 +72,10 @@ MIT License
 ## 👤 Author
 Mirai Sanagi  
 Exploring sound × Python × immersive audio design  
+
+
+## メモ
+
+- 最新技術について調べる
+- 聞き分けの判断のプログラミング→没入感
+- VRと合わせて没入感をどう提供できるか
